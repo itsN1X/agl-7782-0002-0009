@@ -2,7 +2,7 @@
 
 ### from 14BME0133_CORE import MEE499_master
 ---
-Begin here [ >>>>>>>> ](agl7782-0002/index.htm)
+Begin here [ >>>>>>>> ](agl7782-0002/index)
 
 
 ---
@@ -26,7 +26,7 @@ Begin here [ >>>>>>>> ](agl7782-0002/index.htm)
 `cd agl7782-0002`
 
 
-- Launch doc in ya fave brow:
+- Launch thy brow:
 `quantum --private index`
 
 ___
